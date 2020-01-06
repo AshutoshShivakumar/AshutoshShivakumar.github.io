@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hahahahahahahah.
+[Hahahahahahahah](https://google.com/).
 
 A data-driven personal website
 ======
