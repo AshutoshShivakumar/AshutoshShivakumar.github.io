@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Ashutosh Shivakumar"
 title_separator          : "-"
-name                     : &name "Ashutosh"
+name                     : &name "Ashutosh Shivakumar"
 description              : &description "Graduate Researcher"
 url                      : https://AshutoshShivakumar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "AshutoshShivakumar/AshutoshShivakumar.github.io"
+repository               : "AshutoshShivakumar.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ashutosh Shivakumar"
   avatar           : "profile.png"
-  bio              : "PhD Student"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  bio              : "PhD Student - Computer Science and Engineering"
+  location         : "Dayton, Ohio, USA"
+  employer         : "Wright State University"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=Ashutosh+Shivakumar"
+  googlescholar    : "http://https://scholar.google.com/citations?user=Qt7ke9oAAAAJ&hl=en"
+  email            : "shivakumar.5@wright.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "AshutoshShivakumar"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         :"www.linkedin.com/in/ashutosh-shivakumar"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
