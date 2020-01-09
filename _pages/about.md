@@ -17,8 +17,8 @@ As a bibliophile and music enthusiast I am fascinated by the power of written an
 Updates
 ======
 
-* I am currently conducting a human subject-based evaluation of our NLP based[Motivational Interviewing](https://www.psychologytoday.com/us/therapy-types/motivational-interviewing) tool ReadMI (Real-Time Assessment of Dialogue in Motivational Interviewing) in partnership with Wright State School of Medicine, a National Institute of Health funded project. 
-* December 2019 - our journal article [AI - Enabled Language-Speaking Coaching for Dual-Language Learners] (http://www.iadisportal.org/ijwi/vol17_1.html) is published in the IADIS International Journal on WWW/Internet.
+* I am currently conducting a human subject-based evaluation of our NLP based [Motivational Interviewing](https://www.psychologytoday.com/us/therapy-types/motivational-interviewing) tool ReadMI (Real-Time Assessment of Dialogue in Motivational Interviewing) in partnership with Wright State School of Medicine, a National Institute of Health funded project. 
+* December 2019 - our journal article [AI - Enabled Language-Speaking Coaching for Dual-Language Learners](https://www.iadisportal.org/ijwi/vol17_1.html) is published in the IADIS International Journal on WWW/Internet.
 * April 2019 - I will be presenting our [work](https://files.eric.ed.gov/fulltext/ED590271.pdf) on our mobile learning platform iLeap in Utrecht, Netherlands.
 * September 2018 - Excited to be a part of the Battlespace Acoustic Branch of the Air Force Research laboratory as a Graduate Research Assistant working on Machine Learning/Deep Learning and NLP research topics.
 * September 2018 - We will be conducting a pilot project of our real-time classroom autocaptioning system "AutoCap" in BIO 1180 class.
