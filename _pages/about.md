@@ -18,13 +18,13 @@ Updates
 ======
 
 * I am currently conducting a human subject-based evaluation of our NLP based[Motivational Interviewing](https://www.psychologytoday.com/us/therapy-types/motivational-interviewing) tool ReadMI (Real-Time Assessment of Dialogue in Motivational Interviewing) in partnership with Wright State School of Medicine, a National Institute of Health funded project. 
-*December 2019 - our journal article [AI - Enabled Language-Speaking Coaching for Dual-Language Learners] (http://www.iadisportal.org/ijwi/vol17_1.html) is published in the IADIS International Journal on WWW/Internet.
-*April 2019 - I will be presenting our [work](https://files.eric.ed.gov/fulltext/ED590271.pdf) on our mobile learning platform iLeap in Utrecht, Netherlands.
-*September 2018 - Excited to be a part of the Battlespace Acoustic Branch of the Air Force Research laboratory as a Graduate Research Assistant working on Machine Learning/Deep Learning and NLP research topics.
-*September 2018 - We will be conducting a pilot project of our real-time classroom autocaptioning system "AutoCap" in BIO 1180 class.
+* December 2019 - our journal article [AI - Enabled Language-Speaking Coaching for Dual-Language Learners] (http://www.iadisportal.org/ijwi/vol17_1.html) is published in the IADIS International Journal on WWW/Internet.
+* April 2019 - I will be presenting our [work](https://files.eric.ed.gov/fulltext/ED590271.pdf) on our mobile learning platform iLeap in Utrecht, Netherlands.
+* September 2018 - Excited to be a part of the Battlespace Acoustic Branch of the Air Force Research laboratory as a Graduate Research Assistant working on Machine Learning/Deep Learning and NLP research topics.
+* September 2018 - We will be conducting a pilot project of our real-time classroom autocaptioning system "AutoCap" in BIO 1180 class.
 *September 2018 - [In the news](http://webapp2.wright.edu/web1/newsroom/2018/09/27/air-uber/) - "Pilotless drone for human passengers" project.
-*February 2018 - [In the news](http://webapp2.wright.edu/web1/newsroom/2018/02/13/painless-solution/) - Declared winners of the Ohio Opioid Technology Challenge.
-*May 2017 - Successfully defended my [master thesis](
+* February 2018 - [In the news](http://webapp2.wright.edu/web1/newsroom/2018/02/13/painless-solution/) - Declared winners of the Ohio Opioid Technology Challenge.
+* May 2017 - Successfully defended my [master thesis](
 http://rave.ohiolink.edu/etdc/view?acc_num=wright1496320380627769)
-*August 2016 - Successfully completed my 8-month internship at BMW Group Technology Office, Mountain View, California working on sustainabile mobility(Electric vehicles) projects like [BMW i ChargeForward](https://www.bmwchargeforward.com/#/home)and [SmartCharging](https://www.youtube.com/watch?v=e2WI8hEJKz0). 
+* August 2016 - Successfully completed my 8-month internship at BMW Group Technology Office, Mountain View, California working on sustainabile mobility(Electric vehicles) projects like [BMW i ChargeForward](https://www.bmwchargeforward.com/#/home)and [SmartCharging](https://www.youtube.com/watch?v=e2WI8hEJKz0). 
 
