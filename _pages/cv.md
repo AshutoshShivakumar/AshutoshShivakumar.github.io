@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Engineering in Electronics and Communication, Visvesvaraya Technological University, Belgaum, India, 2014
+* Master of Science in Computer Engineering, Wright State University, Dayton, Ohio, USA, 2017
+* Ph.D in Computer Science in Engineering, Wright State University, Dayton, Ohio, USA, 2017 - Present
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017 - now : Graduate Research Assistant
+  * SmartLab, Wright State University, Dayton, Ohio, USA
+  * Duties included: Leading CCIMS(Collaborative Communications Interruption Managament System) project and (ReadMI) Real-time Assessment of Dialogue in Motivational Interviewing Project. 
+  
+* Spring - Summer 2016: Sustainable Mobility Intern (Software Engineering)
+  * BMW Group Technology Office, Mountain View, California, USA
+  * Duties included:1) R&D of [Next Generation Smart Charging] (https://www.youtube.com/watch?v=e2WI8hEJKz0) project. 2) Managing and maintaining the [BMW i ChargeForward](https://www.bmwchargeforward.com/#/home) project. 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* NLP/Machine Learning/Deep Learning libraries
+  * NLTK, SpaCy, TextBlob, Scikit-learn, TensorFlow
+* Platform
+  * Android
+  * AWS
 
 Publications
 ======
