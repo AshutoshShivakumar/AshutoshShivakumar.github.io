@@ -13,7 +13,7 @@ Education
 ======
 * Bachelor of Engineering in Electronics and Communication, Visvesvaraya Technological University, Belgaum, India, 2014
 * Master of Science in Computer Engineering, Wright State University, Dayton, Ohio, USA, 2017
-* Ph.D in Computer Science in Engineering, Wright State University, Dayton, Ohio, USA, 2017 - Present
+* Ph.D in Computer Science and Engineering, Wright State University, Dayton, Ohio, USA, 2017 - Present
 
 Work experience
 ======
@@ -23,7 +23,7 @@ Work experience
   
 * Spring - Summer 2016: Sustainable Mobility Intern (Software Engineering)
   * BMW Group Technology Office, Mountain View, California, USA
-  * Duties included:1) R&D of [Next Generation Smart Charging] (https://www.youtube.com/watch?v=e2WI8hEJKz0) project. 2) Managing and maintaining the [BMW i ChargeForward](https://www.bmwchargeforward.com/#/home) project. 
+  * Duties included:1) R&D of [Next Generation Smart Charging](https://www.youtube.com/watch?v=e2WI8hEJKz0) project. 2) Managing and maintaining the [BMW i ChargeForward](https://www.bmwchargeforward.com/#/home) project. 
   
 Skills
 ======
