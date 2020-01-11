@@ -1,5 +1,5 @@
 ---
-title: "Individualized Smart Charging to Mitigate the Growing Electrical Peak Demand from EVs as Home Appliances"
+title: "mickey mouses"
 collection: publications
 permalink: /publication/new
 excerpt: 'A. Shivakumar, M. M. Vasoya, S. Morrison, and Y. Pei, “Individualized Smart Charging to Mitigate the Growing Electrical Peak Demand from EVs as Home Appliances”, IEEE Smart World Congress, Guangzhou, China, Oct. 8-12, 2018'
