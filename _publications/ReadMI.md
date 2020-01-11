@@ -11,4 +11,3 @@ Our research team has been developing and testing a training tool that uses natu
 
 [Download paper here](https://www.jgme.org/doi/pdf/10.4300/JGME-D-18-00839.1)
 
-Recommended citation: Miteshkumar M. Vasoya, Ashutosh Shivakumar, Sowmya Pappu, Cara P. Murphy, Yong Pei, Dean A. Bricker, Josephine F. Wilson, Angie Castle, and Paul J. Hershberger (2019) ReadMI: An Innovative App to Support Training in Motivational Interviewing. Journal of Graduate Medical Education: June 2019, Vol. 11, No. 3, pp. 344-346.
