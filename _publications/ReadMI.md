@@ -1,6 +1,6 @@
 ---
 title: "ReadMI: An Innovative App to Support Training in Motivational Interviewing"
-collection:publications
+collection: publications
 permalink: /publication/ReadMI
 excerpt: 'Miteshkumar M. Vasoya, Ashutosh Shivakumar, Sowmya Pappu, Cara P. Murphy, Yong Pei, Dean A. Bricker, Josephine F. Wilson, Angie Castle, and Paul J. Hershberger (2019) ReadMI: An Innovative App to Support Training in Motivational Interviewing. Journal of Graduate Medical Education: June 2019, Vol. 11, No. 3, pp. 344-346.'
 ---
