@@ -8,4 +8,4 @@ date: 2012-03-01
 location: "Utrecht, Netherlands"
 ---
 
-Presented the [work]() on our AI and AR based language learning platform iLeap. The presentation can be downloaded [here](http://AshutoshShivakumar.github.io/files/ileap_ML_2019.pdf) 
+Presented the [work](http://AshutoshShivakumar.github.io/files/ileap.pdf) on our AI and AR based language learning platform iLeap. The presentation can be downloaded [here](http://AshutoshShivakumar.github.io/files/ileap_ML_2019.pdf) 
