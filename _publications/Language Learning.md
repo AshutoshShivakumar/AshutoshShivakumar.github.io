@@ -1,7 +1,7 @@
 ---
 title: "A Mobile Cloud Computing Based Independent Language Learning System With Automatic Intelligibility Assessment and Instant Feedback"
 collection: publications
-permalink: /publication/new
+permalink: /publication/Language Learning
 excerpt: 'A. Shivakumar, M. M. Vasoya, S. Morrison, and Y. Pei, “Individualized Smart Charging to Mitigate the Growing Electrical Peak Demand from EVs as Home Appliances”, IEEE Smart World Congress, Guangzhou, China, Oct. 8-12, 2018'
 date: 2018-07-01
 venue: '2018 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable
