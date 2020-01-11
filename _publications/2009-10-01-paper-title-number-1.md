@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'A. Shivakumar, S. Shukla, M. M. Vasoya, I. Kasrani, Y. Pei, “AI-Enabled Language Speaking Coaching for Dual Language Learners”, IADIS International Journal on WWW/Internet 2019, Vol. 17, No. 1, pp. 66-78, ISSN: 1645-7641.'
 date: 2019-12-17
-venue: 'IADIS International Journal on WWW/Internet'
 paperurl: 'http://www.iadisportal.org/ijwi/papers/2019171105.pdf'
 citation: 'A. Shivakumar, S. Shukla, M. M. Vasoya, I. Kasrani, Y. Pei, “AI-Enabled Language Speaking Coaching for Dual Language Learners”, IADIS International Journal on WWW/Internet 2019, Vol. 17, No. 1, pp. 66-78, ISSN: 1645-7641'
 ---
@@ -12,4 +11,3 @@ In this research article, we propose a human-AI teaming based mobile language le
 
 [Download paper here](http://www.iadisportal.org/ijwi/papers/2019171105.pdf)
 
-Recommended citation: A. Shivakumar, S. Shukla, M. M. Vasoya, I. Kasrani, Y. Pei, “AI-Enabled Language Speaking Coaching for Dual Language Learners”, IADIS International Journal on WWW/Internet 2019, Vol. 17, No. 1, pp. 66-78, ISSN: 1645-7641.
