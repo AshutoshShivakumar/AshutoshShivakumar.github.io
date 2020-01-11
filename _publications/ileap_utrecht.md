@@ -1,7 +1,7 @@
 ---
 title: "iLeap: A Human-AI Teaming based Mobile Language Learning Solution for Dual Language Learners in Early and Special Educations"
 collection: publications
-permalink: /publication/ileap
+permalink: /publication/ileap_utrecht
 excerpt: 'A. Shivakumar, S. Shukla, M. M. Vasoya, I. Kasrani, Y. Pei, “AI-Enabled Language Speaking Coaching for Dual Language Learners”, IADIS International Journal on WWW/Internet 2019, Vol. 17, No. 1, pp. 66-78, ISSN: 1645-7641.'
 date: 2019-04-12
 venue: 'IADIS International Conference on Mobile Learning 2019'
