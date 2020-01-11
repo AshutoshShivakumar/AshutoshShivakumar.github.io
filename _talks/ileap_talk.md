@@ -8,4 +8,4 @@ date: 2012-03-01
 location: "Utrecht, Netherlands"
 ---
 
-Presented the [work]() on our AI-Based Language Learning platform iLeap. The presentation can be downloaded [here]() 
+Presented the [work]() on our AI and AR based language learning platform iLeap. The presentation can be downloaded [here]() 
