@@ -23,7 +23,11 @@ Work experience
   
 * Spring - Summer 2016: Sustainable Mobility Intern (Software Engineering)
   * BMW Group Technology Office, Mountain View, California, USA
-  * Duties included:1) R&D of [Next Generation Smart Charging](https://www.youtube.com/watch?v=e2WI8hEJKz0) project. 2) Managing and maintaining the [BMW i ChargeForward](https://www.bmwchargeforward.com/#/home) project. 
+  * Duties included:1) R&D of [Next Generation Smart Charging](https://www.youtube.com/watch?v=e2WI8hEJKz0) project. 2) Managing and maintaining the [BMW i ChargeForward](https://www.bmwchargeforward.com/#/home) project in association with project partners and BMW i3 customers. 
+  
+* Fall 2015: Graduate Teaching Assistant
+  * Department of Computer Science and Engineering, Wright State University Dayton, Ohio, USA
+  * Duties included:1) Taught Digital Systems Design lab CEG 3320L course to undergraduate students 2) Primary point of contact for students in addressing grievances and course-related clarification. 
   
 Skills
 ======
@@ -45,12 +49,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
