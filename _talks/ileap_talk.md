@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/ileap_talk
 venue: "IADIS International Conference on Mobile Learning"
-date: 2012-03-01
+date: 2019-04-12
 location: "Utrecht, Netherlands"
 ---
 
