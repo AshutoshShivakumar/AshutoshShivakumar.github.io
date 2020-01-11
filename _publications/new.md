@@ -1,18 +1,16 @@
 ---
-title: "mickey mouses"
+title: "A Mobile Cloud Computing Based Independent Language Learning System With Automatic Intelligibility Assessment and Instant Feedback"
 collection: publications
 permalink: /publication/new
 excerpt: 'A. Shivakumar, M. M. Vasoya, S. Morrison, and Y. Pei, “Individualized Smart Charging to Mitigate the Growing Electrical Peak Demand from EVs as Home Appliances”, IEEE Smart World Congress, Guangzhou, China, Oct. 8-12, 2018'
 date: 2018-07-01
 venue: '2018 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable
 Computing & Communications, Cloud & Big Data Computing, Internet of People and Smart City Innovations'
-paperurl: 'http://AshutoshShivakumar.github.io/files/smart.pdf'
-citation: 'A. Shivakumar, M. M. Vasoya, S. Morrison, and Y. Pei, “Individualized Smart Charging to Mitigate the Growing Electrical Peak Demand from EVs as Home Appliances”, IEEE Smart World Congress, Guangzhou, China, Oct. 8-12, 2018'
+citation: 'I. Kasrani, M. M. Vasoya, A. Shivakumar, and Y. Pei, "A Mobile Cloud Computing Based Independent Language Learning System with Automatic Intelligibility Assessment and Instant Feedback", The 14th International Conference on Mobile Learning (Mobile Learning 2018), Lisbon, Portugal, April 14-16, 2018.'
 ---
-In this paper we analyze the upcoming trends in electric vehicle (EV) to grid integration. We identify various challenges and opportunities that EVs present to the users and Utilities. Then, we present two progressively intelligent solutions for autonomous, cost efficient and sustainable charging of EVs to address the major problems due to EV charging at the individual, residence and grid levels. Our simulation study shows that the proposed smart charging solutions can effectively mitigate the potentially overwhelming peak demand challenge due to the synchronized charging activities. Therefore, leading to a win-win proposition for both the user and the Grid and
-accommodating seamless integration of EVs as appliances into the Smart World.
+In this research paper, we present a novel language learning/training and assessment system that helps people to learn and practice a new language independently at low cost. To achieve an independent-learning workflow, we explore the use of real-time speech recognition, language translation, speech synthesis, and language intelligibility assessment technologies to provide automatic assessment and instant feedback of language-speaking performance. We also propose and adopt an objective assessment methodology that determines the intelligibility based on outcome of speech recognition. Our experimental results demonstrate that the proposed system can sufficiently analyze the intelligibility of ones speaking, accurately identify mispronounced words, and define a feedback that localizes and highlights errors for helping continuous practice toward perfection.
 
-[Download paper here](http://AshutoshShivakumar.github.io/files/smart.pdf)
+[Download paper here](http://AshutoshShivakumar.github.io/files/Language Learning System.pdf)
 
-Recommended citation: A. Shivakumar, M. M. Vasoya, S. Morrison, and Y. Pei, “Individualized Smart Charging to Mitigate the Growing Electrical Peak Demand from EVs as Home Appliances”, IEEE Smart World Congress, Guangzhou, China, Oct. 8-12, 2018.
+Recommended citation: I. Kasrani, M. M. Vasoya, A. Shivakumar, and Y. Pei, "A Mobile Cloud Computing Based Independent Language Learning System with Automatic Intelligibility Assessment and Instant Feedback", The 14th International Conference on Mobile Learning (Mobile Learning 2018), Lisbon, Portugal, April 14-16, 2018.
 
