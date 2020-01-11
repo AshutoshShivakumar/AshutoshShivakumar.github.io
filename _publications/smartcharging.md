@@ -1,7 +1,7 @@
 ---
 title: "Individualized Smart Charging to Mitigate the Growing Electrical Peak Demand from EVs as Home Appliances"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/smartcharging
 excerpt: 'A. Shivakumar, M. M. Vasoya, S. Morrison, and Y. Pei, “Individualized Smart Charging to Mitigate the Growing Electrical Peak Demand from EVs as Home Appliances”, IEEE Smart World Congress, Guangzhou, China, Oct. 8-12, 2018'
 date: 2018-07-01
 venue: '2018 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced & Trusted Computing, Scalable
