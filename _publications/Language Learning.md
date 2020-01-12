@@ -12,5 +12,4 @@ In this research paper, we present a novel language learning/training and assess
 
 [Download paper here](http://AshutoshShivakumar.github.io/files/Language Learning System.pdf)
 
-Recommended citation: I. Kasrani, M. M. Vasoya, A. Shivakumar, and Y. Pei, "A Mobile Cloud Computing Based Independent Language Learning System with Automatic Intelligibility Assessment and Instant Feedback", The 14th International Conference on Mobile Learning (Mobile Learning 2018), Lisbon, Portugal, April 14-16, 2018.
 
