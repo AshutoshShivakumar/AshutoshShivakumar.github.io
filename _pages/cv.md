@@ -19,7 +19,7 @@ Work experience
 ======
 * Summer 2017 - now : Graduate Research Assistant
   * SmartLab, Wright State University, Dayton, Ohio, USA
-  * Duties included: Leading CCIMS(Collaborative Communications Interruption Managament System) project and (ReadMI) Real-time Assessment of Dialogue in Motivational Interviewing Project. 
+  * Duties included: Leading CCIMS(Collaborative Communications Interruption Managament System) project and ReadMI (Real-time Assessment of Dialogue in Motivational Interviewing Project). 
   
 * Spring - Summer 2016: Sustainable Mobility Intern (Software Engineering)
   * BMW Group Technology Office, Mountain View, California, USA
